@@ -13,6 +13,11 @@ public class EmployeeTest {
         printEmployee(m);
         printEmployee(a);
         printEmployee(d);
+
+        m.addEmployee(e);
+        m.addEmployee(d);
+        m.addEmployee(a);
+        printEmployee(m);
     }
     public static void printEmployee(Employee em){
         System.out.println(em);
