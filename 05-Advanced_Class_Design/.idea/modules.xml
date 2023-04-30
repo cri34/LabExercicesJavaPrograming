@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/05-Advanced_Class_Design.iml" filepath="$PROJECT_DIR$/.idea/05-Advanced_Class_Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practices/AbstractBanking/AbstractBanking.iml" filepath="$PROJECT_DIR$/practices/AbstractBanking/AbstractBanking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/AbstractElectronicDevice/AbstractElectronicDevice.iml" filepath="$PROJECT_DIR$/examples/AbstractElectronicDevice/AbstractElectronicDevice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/AfterEnums/AfterEnums.iml" filepath="$PROJECT_DIR$/examples/AfterEnums/AfterEnums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/BeforeEnums/BeforeEnums.iml" filepath="$PROJECT_DIR$/examples/BeforeEnums/BeforeEnums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ComplexEnums/ComplexEnums.iml" filepath="$PROJECT_DIR$/examples/ComplexEnums/ComplexEnums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practices/EnumBanking/EnumBanking.iml" filepath="$PROJECT_DIR$/practices/EnumBanking/EnumBanking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/FinalExamples/FinalExamples.iml" filepath="$PROJECT_DIR$/examples/FinalExamples/FinalExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/NestedClassExamples/NestedClassExamples.iml" filepath="$PROJECT_DIR$/examples/NestedClassExamples/NestedClassExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practices/NestedClasses/NestedClasses.iml" filepath="$PROJECT_DIR$/practices/NestedClasses/NestedClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practices/SingletonBanking/SingletonBanking.iml" filepath="$PROJECT_DIR$/practices/SingletonBanking/SingletonBanking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/examples/SingletonPattern/SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/StaticExamples/StaticExamples.iml" filepath="$PROJECT_DIR$/examples/StaticExamples/StaticExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solutions/practice1/practice1.iml" filepath="$PROJECT_DIR$/solutions/practice1/practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solutions/practice2/practice2.iml" filepath="$PROJECT_DIR$/solutions/practice2/practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solutions/practice3/practice3.iml" filepath="$PROJECT_DIR$/solutions/practice3/practice3.iml" />
+    </modules>
+  </component>
+</project>
