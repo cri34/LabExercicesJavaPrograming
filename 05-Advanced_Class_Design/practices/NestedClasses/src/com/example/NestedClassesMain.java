@@ -17,5 +17,6 @@ public class NestedClassesMain {
         sn.staticNestedPrint();
         
         OuterClass.A.B nested = co.new A().new B();
+        nested.method();
     }
 }

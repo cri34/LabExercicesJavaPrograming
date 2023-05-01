@@ -72,10 +72,21 @@ public class OuterClass {
     public class A {
 
         public class B {
-
             public void method() {
                 class C {
+                    B b = new B();
+                    void printB(){
+                        b.print();
+                    }
+                    void print(){
+                        System.out.println("dentro C");
+                    }
                 }
+                C c = new C();
+                c.printB();
+            }
+            private void print(){
+                System.out.println("en B");
             }
         }
     }
